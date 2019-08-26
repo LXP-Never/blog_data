@@ -1,0 +1,10 @@
+python -m pip install nltk
+>>> import nltk
+>>> nltk.download()
+python -m pip install gensim
+python -m pip install python_speech_features
+[lib]python -m pip install hmmlearn-0.2.1-cp36-cp36m-win_amd64.whl
+[lib]python -m pip install cvxopt-1.1.9-cp36-cp36m-win_amd64.whl
+[lib]python -m pip install pystruct-0.2.5-cp36-cp36m-win_amd64.whl
+[lib]python -m pip install opencv_python-3.4.0+contrib-cp36-cp36m-win_amd64.whl
+python -m pip install neurolab
