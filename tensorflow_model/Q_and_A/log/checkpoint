@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.cpkt-10"
+all_model_checkpoint_paths: "model.cpkt-6"
+all_model_checkpoint_paths: "model.cpkt-7"
+all_model_checkpoint_paths: "model.cpkt-8"
+all_model_checkpoint_paths: "model.cpkt-9"
+all_model_checkpoint_paths: "model.cpkt-10"
