@@ -34,11 +34,11 @@ audiowrite("audio/done.wav", y_NLMS, fs_orl);
 sound(y_NLMS)    % 听一听回声消除后的音效
 
 figure;
-error1_LMS=10*log10(error_NLMS(order:N));
-plot(error1_LMS,'b.');              % 蓝色
+error1_NLMS=10*log10(error_NLMS(order:N));
+plot(error1_NLMS,'b.');              % 蓝色
 axis tight;                         % 使用紧凑的坐标轴
-legend('LMS算法');                  % 图例
-title('LMS算法误差曲线');           % 图标题
+legend('NLMS算法');                  % 图例
+title('NLMS算法误差曲线');           % 图标题
 xlabel('样本');                     % x轴标签
 ylabel('误差/dB');                  % y轴标签
 grid on;                            % 网格线
