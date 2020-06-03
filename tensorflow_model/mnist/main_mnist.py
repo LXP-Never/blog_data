@@ -52,7 +52,7 @@ def train():
         # loss = slim.losses.softmax_cross_entropy(y, y_)
         loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=labels, logits=logits))
         tf.add_to_collection('losses', loss)
-        total_loss = tf.add_n(tf.get_collection("loss"))    # total_loss=模型损失+权重正则化损失
+        total_loss = tf.add_n(tf.get_collection("losses"))    # total_loss=模型损失+权重正则化损失
         ############    模型精度   ############
         predict = tf.argmax(logits, axis=1)
         accuracy = tf.reduce_mean(tf.cast(tf.equal(predict, tf.argmax(labels, 1)), tf.float32))

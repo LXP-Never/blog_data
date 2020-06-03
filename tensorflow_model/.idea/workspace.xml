@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="635251b9-9b58-4510-b5fc-0e9afd57997e" name="Default Changelist" comment="" />
+    <list default="true" id="635251b9-9b58-4510-b5fc-0e9afd57997e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist/main_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist/main_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnist/temp.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JupyterTrust" id="81065ea6-4a09-41b2-8b11-ebbfbd1ebd71" />
   <component name="ProjectId" id="1b2EvKevf18QiPclbCoIJ8PwX9Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -31,7 +42,7 @@
       <recent name="C:\Users\Never\Desktop\deepmodel\nets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.moving_Average">
+  <component name="RunManager" selected="Python.main_mnist">
     <configuration name="main_mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deepmodel" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.moving_Average" />
         <item itemvalue="Python.main_mnist" />
+        <item itemvalue="Python.moving_Average" />
         <item itemvalue="Python.mnist_eval" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.main_steps" />
@@ -195,6 +206,8 @@
       <workItem from="1590934675048" duration="226000" />
       <workItem from="1590977263992" duration="5381000" />
       <workItem from="1590996822440" duration="40000" />
+      <workItem from="1591101206235" duration="384000" />
+      <workItem from="1591150782330" duration="263000" />
     </task>
     <servers />
   </component>
@@ -202,22 +215,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="945" height="253" key="GridCell.Tab.0.bottom" timestamp="1590994432259">
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1591150978384">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="945" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590994432259" />
-    <state width="945" height="253" key="GridCell.Tab.0.center" timestamp="1590994432259">
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
+    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1591150978384">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="945" height="253" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590994432259" />
-    <state width="945" height="253" key="GridCell.Tab.0.left" timestamp="1590994432259">
+    <state width="1877" height="372" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
+    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1591150978384">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="945" height="253" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590994432259" />
-    <state width="945" height="253" key="GridCell.Tab.0.right" timestamp="1590994432259">
+    <state width="1877" height="372" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589680" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1591150978384">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="945" height="253" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590994432259" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
     <state x="463" y="170" key="SettingsEditor" timestamp="1590839894692">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -226,6 +243,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="102" y="132" width="823" height="819" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590919786654" />
+    <state x="754" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591151086140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="754" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591151086140" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1590119111308">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -234,6 +255,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/deepmodel$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1588124053118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deepmodel$global_step.coverage" NAME="global_step Coverage Results" MODIFIED="1589422680047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Q_and_A" />
+    <SUITE FILE_PATH="coverage/tensorflow_model$main_mnist.coverage" NAME="main_mnist Coverage Results" MODIFIED="1591150978378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mnist" />
     <SUITE FILE_PATH="coverage/deepmodel$my_rnn.coverage" NAME="my_rnn Coverage Results" MODIFIED="1588687813194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deepmodel$mnist_eval.coverage" NAME="mnist_eval Coverage Results" MODIFIED="1589556958651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mnist" />
     <SUITE FILE_PATH="coverage/deepmodel$main_steps.coverage" NAME="main_steps Coverage Results" MODIFIED="1589448193948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
