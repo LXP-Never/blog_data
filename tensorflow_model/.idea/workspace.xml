@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="635251b9-9b58-4510-b5fc-0e9afd57997e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mnist/main_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/mnist/main_mnist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mnist/temp.py" beforeDir="false" />
-    </list>
+    <list default="true" id="635251b9-9b58-4510-b5fc-0e9afd57997e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,12 +201,24 @@
       <workItem from="1590977263992" duration="5381000" />
       <workItem from="1590996822440" duration="40000" />
       <workItem from="1591101206235" duration="384000" />
-      <workItem from="1591150782330" duration="263000" />
+      <workItem from="1591150782330" duration="510000" />
     </task>
+    <task id="LOCAL-00001" summary="修改mnist文件夹错误">
+      <created>1591151133224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591151133224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改mnist文件夹错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改mnist文件夹错误" />
   </component>
   <component name="WindowStateProjectService">
     <state x="572" y="118" width="850" height="813" key="CommitChangelistDialog2" timestamp="1591151132361">
