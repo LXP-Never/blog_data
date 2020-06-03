@@ -201,7 +201,7 @@
       <workItem from="1590977263992" duration="5381000" />
       <workItem from="1590996822440" duration="40000" />
       <workItem from="1591101206235" duration="384000" />
-      <workItem from="1591150782330" duration="510000" />
+      <workItem from="1591150782330" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="修改mnist文件夹错误">
       <created>1591151133224</created>
@@ -225,25 +225,25 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="572" y="118" width="850" height="813" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591151132361" />
-    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1591150978384">
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom" timestamp="1591152036079">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="372" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591152036079" />
     <state width="1877" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
-    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1591150978384">
+    <state width="1877" height="372" key="GridCell.Tab.0.center" timestamp="1591152036078">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="372" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="372" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591152036078" />
     <state width="1877" height="388" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
-    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1591150978384">
+    <state width="1877" height="372" key="GridCell.Tab.0.left" timestamp="1591152036078">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="372" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="372" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591152036078" />
     <state width="1877" height="388" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589680" />
-    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1591150978384">
+    <state width="1877" height="372" key="GridCell.Tab.0.right" timestamp="1591152036078">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="372" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591150978384" />
+    <state width="1877" height="372" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.720.1249@0.0.1920.1050" timestamp="1591152036078" />
     <state width="1877" height="388" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1591101589681" />
     <state x="463" y="170" key="SettingsEditor" timestamp="1590839894692">
       <screen x="0" y="0" width="1920" height="1050" />
