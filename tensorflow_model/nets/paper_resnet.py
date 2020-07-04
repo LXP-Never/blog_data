@@ -40,7 +40,6 @@ def block(input, n, output_size, change_first_stride, bottleneck):
             conv_b = conv(input=conv_a, kernel_size=3, output_size=output_size, stride=1, padding="SAME")
             conv_b = batch_normalization(conv_b, output_size)
             conv_b = tf.nn.relu(conv_b)
-
         with tf.variable_scope('c'):
             conv_c = conv(input=conv_b, kernel_size=1, output_size=output_size * 4, stride=1, padding="SAME")
             output = batch_normalization(conv_c, output_size * 4)
@@ -59,7 +58,7 @@ def block(input, n, output_size, change_first_stride, bottleneck):
             shortcut = input  # shortcut
     else:
         with tf.variable_scope('shortcut'):
-            shortcut = conv(input=input, kernel_size=1, output_size=output_size * 4, stride=1, padding="SAME")
+            shortcut = conv(input=input, kernel_size=1, output_size=output_size * 4, stride=stride, padding="SAME")
             shortcut = batch_normalization(shortcut, output_size * 4)
 
     return tf.nn.relu(output + shortcut)
@@ -88,7 +87,6 @@ def fc(input, output_size, activeation_func=True):
 
 def inference(inputs, class_num, num_blocks=[3, 4, 6, 3], bottleneck=True):
     # data[1, 224, 224, 3]
-
     # 我们尝试搭建50层ResNet
     with tf.variable_scope('conv1'):
         conv1 = conv(input=inputs, kernel_size=7, output_size=64, stride=2, padding="SAME")

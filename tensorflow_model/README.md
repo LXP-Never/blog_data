@@ -13,7 +13,7 @@ _, loss_t, step = sess.run([train_op, loss, global_step])`
 
 重新创建一个github分支
 
-
+能不能把relu等激活函数单独拎出来
 
 
 
